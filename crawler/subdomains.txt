@@ -1,0 +1,9 @@
+mail
+admin
+www
+members
+accounts
+blog
+ftp
+mobile
+api
